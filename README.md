@@ -40,12 +40,12 @@ Il progetto nasce come esercizio in ambiente SAS Miner, successivamente è stato
 
 ---
 
-ml_turnover/
-│
-├─ Employee.csv
-├─ ml_turnover.ipynb
-├─ rf_reduced_package.pkl
-├─ ML_turnover.pptx
-└─ diagramma_sas_miner_ml_turnover.xml
+ml_turnover/  
+│  
+├─ Employee.csv  
+├─ ml_turnover.ipynb  
+├─ rf_reduced_package.pkl  
+├─ ML_turnover.pptx  
+└─ diagramma_sas_miner_ml_turnover.xml  
 ## Struttura dei file
 
