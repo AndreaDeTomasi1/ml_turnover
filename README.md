@@ -9,7 +9,7 @@ Il progetto nasce come esercizio in ambiente SAS Miner, successivamente è stato
 ## Contenuti della repository
 
 - **Dataset**
-  - `Employee.csv` : dataset originale preso da [Kaggle](https://www.kaggle.com/) contenente informazioni sui dipendenti.
+  - `Employee.csv` : dataset originale preso da [Kaggle](https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset) contenente informazioni sui dipendenti.
 
 - **Notebook**
   - `ml_turnover.ipynb` : notebook Python con tutto il codice per:
